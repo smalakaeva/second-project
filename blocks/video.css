@@ -1,0 +1,13 @@
+.video {
+  text-align: center;
+  width: 100%;
+}
+
+.iframes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  width: 100%;
+  margin-top: 50px;
+}
